@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Prompt', sans-serif;
+    font-size: 70px;
+    margin: 20% auto;
+    text-align: center;
+}
